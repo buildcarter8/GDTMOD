@@ -1,1 +1,7 @@
-//working on later
+(function () {
+        var ready = function () {
+        
+                //this Adds more Platforms
+                Tycoon-Mod.addPlatform();\
+        }
+}
