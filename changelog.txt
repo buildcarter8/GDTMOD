@@ -1,6 +1,9 @@
 Change Log
 
-Version 0.0.3 (Current):
+Version 0.0.4(Current):
+*Removed a few bugs
+*Mod Should work prior to version 0.0.5
+Version 0.0.3:
 *3rd Dev build
 Fixes Bugs:
 *Not All files were on GTD Mod.js
