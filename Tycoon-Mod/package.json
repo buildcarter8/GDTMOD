@@ -4,6 +4,6 @@
 	"version" : "0.0.1",
 	"author" : "buildcarter8",
 	"description" : "Example Mod",
-	"main" : "./Script1.js",
+	"main" : "GDTMOD/Tycoon-Mod/source/Default.js",
 	}
 }
