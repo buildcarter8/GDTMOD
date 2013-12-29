@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version 0.0.3 (Current):
+*3rd Dev build
+Fixes Bugs:
+*Not All files were on GTD Mod.js
+Known Bugs:
+*Game will not run mod YET
+If you have any ideas why please help
+Version 0.0.2:
+*2nd Dev build
+*Fixes a few glitches in version 0.0.1
+Version 0.0.1:
+*1st Dev Build
