@@ -6,6 +6,6 @@
         var error = function () {
         };
 
-        GDT.loadJs(['mods/GTDMod/source/default.js',
-		'mods/GTDMod/main.js'], ready, error);
+        GDT.loadJs(['mods/Tycoon-Mod/source/default.js',
+		'mods/Tycoon-Mod/main.js'], ready, error);
 })();

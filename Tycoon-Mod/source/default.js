@@ -2,6 +2,6 @@
         var ready = function () {
         
                 //this Adds more Platforms
-                Tycoon-Mod.addPlatform();\
+                Tycoon-Mod.addPlatform();
         }
 }
