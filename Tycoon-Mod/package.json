@@ -1,0 +1,9 @@
+{
+	"id" : "GTDMod",
+	"name" : "GTD Mod",
+	"version" : "0.0.1",
+	"author" : "buildcarter8",
+	"description" : "Example Mod",
+	"main" : "./Script1.js",
+	}
+}
