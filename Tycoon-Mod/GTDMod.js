@@ -6,5 +6,6 @@
         var error = function () {
         };
 
-        GDT.loadJs(['mods/GTDMod/source/default.js'], ready, error);
+        GDT.loadJs(['mods/GTDMod/source/default.js',
+		'mods/GTDMod/main.js'], ready, error);
 })();

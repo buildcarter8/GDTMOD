@@ -1,10 +1,10 @@
 {
 	"id" : "GTDMod",
 	"name" : "GTD Mod",
-	"version" : "0.0.2",
+	"version" : "0.0.3",
 	"author" : "buildcarter8",
 	"description" : "Example Mod",
-	"main" : "/GDTMod.js",
+	"main" : "./GDTMod.js",
 		"dependencies" : {
 		"gdt-modAPI":"0.1.x"
 	}
